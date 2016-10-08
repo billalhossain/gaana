@@ -1,0 +1,12 @@
+<svg id="No_Ads" data-name="No Ads" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #30b55a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Circle" class="cls-1" d="M170,70A100,100,0,1,1,70,170,100,100,0,0,1,170,70Zm0,17a83,83,0,1,1-83,83A83,83,0,0,1,170,87Z" transform="translate(-70 -70)"/>
+  <path id="Bar" class="cls-1" d="M232.233,106.753c3.124,3.124,2.684,8.629-.982,12.3l-111.2,111.2c-3.667,3.666-9.172,4.106-12.3.982s-2.685-8.629.982-12.3l111.2-111.2C223.6,104.068,229.109,103.629,232.233,106.753Z" transform="translate(-70 -70)"/>
+</svg>

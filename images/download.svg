@@ -1,0 +1,17 @@
+<svg id="Downloads" xmlns="http://www.w3.org/2000/svg" width="184" height="180" viewBox="0 0 184 180">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #30b55a;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="Stem" class="cls-1" x="84" width="16" height="150" rx="8" ry="8"/>
+  <path id="Left" class="cls-2" d="M127.963,184.257a8,8,0,0,1,11.3-.592l34.184,30.78a8,8,0,0,1-10.706,11.89l-34.184-30.78A8,8,0,0,1,127.963,184.257Z" transform="translate(-78 -79)"/>
+  <path id="Right" class="cls-2" d="M212.037,184.257a8,8,0,0,0-11.3-.592l-34.184,30.78a8,8,0,1,0,10.706,11.89l34.184-30.78A8,8,0,0,0,212.037,184.257Z" transform="translate(-78 -79)"/>
+  <rect id="Bottom" class="cls-1" y="164" width="184" height="16" rx="8" ry="8"/>
+</svg>
